@@ -1,3 +1,3 @@
-module github.com/sammy00/uf
+module github.com/sammyne/data-structures-and-algorithms-go/unionfind
 
 go 1.15
